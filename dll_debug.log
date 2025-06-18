@@ -1,0 +1,707 @@
+[2025-06-17 11:47:38.056] DLL INIT - Creating parser...
+[2025-06-17 11:47:38.071] DLL INIT - Parser created successfully
+[2025-06-17 11:47:38.075] DLL INIT - Parser address: 00007BCA2BB72040
+[2025-06-17 11:47:38.076] DLL INIT - VarList Count: 3
+[2025-06-17 11:47:38.077] DLL INIT - VarList[0]: approvalno
+[2025-06-17 11:47:38.077] DLL INIT - VarList[1]: recordid
+[2025-06-17 11:47:38.077] DLL INIT - VarList[2]: approvalstatus
+[2025-06-17 11:47:38.077] DLL INIT - Exit procedure registered
+[2025-06-17 11:47:38.077] *** DLL INITIALIZATION COMPLETED ***
+[2025-06-17 11:47:38.077] === RegisterVar called ===
+[2025-06-17 11:47:38.077] RegisterVar - VarName: username, VarType: c, Value: karthik
+[2025-06-17 11:47:38.077] RegisterVar START - VarList Count: 3
+[2025-06-17 11:47:38.083] RegisterVar START - VarList[0]: approvalno
+[2025-06-17 11:47:38.083] RegisterVar START - VarList[1]: recordid
+[2025-06-17 11:47:38.083] RegisterVar START - VarList[2]: approvalstatus
+[2025-06-17 11:47:38.083] RegisterVar - Parser is assigned, registering variable
+[2025-06-17 11:47:38.083] RegisterVar - Variable registered successfully
+[2025-06-17 11:47:38.083] RegisterVar END - VarList Count: 4
+[2025-06-17 11:47:38.083] RegisterVar END - VarList[0]: approvalno
+[2025-06-17 11:47:38.083] RegisterVar END - VarList[1]: recordid
+[2025-06-17 11:47:38.084] RegisterVar END - VarList[2]: approvalstatus
+[2025-06-17 11:47:38.084] RegisterVar END - VarList[3]: username
+[2025-06-17 11:47:38.092] === RegisterVar completed ===
+[2025-06-17 11:47:38.092] === RegisterVar called ===
+[2025-06-17 11:47:38.103] RegisterVar - VarName: company, VarType: c, Value: AGL
+[2025-06-17 11:47:38.108] RegisterVar START - VarList Count: 4
+[2025-06-17 11:47:38.108] RegisterVar START - VarList[0]: approvalno
+[2025-06-17 11:47:38.108] RegisterVar START - VarList[1]: recordid
+[2025-06-17 11:47:38.108] RegisterVar START - VarList[2]: approvalstatus
+[2025-06-17 11:47:38.108] RegisterVar START - VarList[3]: username
+[2025-06-17 11:47:38.109] RegisterVar - Parser is assigned, registering variable
+[2025-06-17 11:47:38.109] RegisterVar - Variable registered successfully
+[2025-06-17 11:47:38.109] RegisterVar END - VarList Count: 5
+[2025-06-17 11:47:38.109] RegisterVar END - VarList[0]: approvalno
+[2025-06-17 11:47:38.109] RegisterVar END - VarList[1]: recordid
+[2025-06-17 11:47:38.109] RegisterVar END - VarList[2]: approvalstatus
+[2025-06-17 11:47:38.110] RegisterVar END - VarList[3]: username
+[2025-06-17 11:47:38.110] RegisterVar END - VarList[4]: company
+[2025-06-17 11:47:38.116] === RegisterVar completed ===
+[2025-06-17 11:47:38.117] === RegisterVar called ===
+[2025-06-17 11:47:38.117] RegisterVar - VarName: location, VarType: c, Value: CBE
+[2025-06-17 11:47:38.117] RegisterVar START - VarList Count: 5
+[2025-06-17 11:47:38.117] RegisterVar START - VarList[0]: approvalno
+[2025-06-17 11:47:38.118] RegisterVar START - VarList[1]: recordid
+[2025-06-17 11:47:38.118] RegisterVar START - VarList[2]: approvalstatus
+[2025-06-17 11:47:38.118] RegisterVar START - VarList[3]: username
+[2025-06-17 11:47:38.118] RegisterVar START - VarList[4]: company
+[2025-06-17 11:47:38.118] RegisterVar - Parser is assigned, registering variable
+[2025-06-17 11:47:38.118] RegisterVar - Variable registered successfully
+[2025-06-17 11:47:38.122] RegisterVar END - VarList Count: 6
+[2025-06-17 11:47:38.122] RegisterVar END - VarList[0]: approvalno
+[2025-06-17 11:47:38.128] RegisterVar END - VarList[1]: recordid
+[2025-06-17 11:47:38.128] RegisterVar END - VarList[2]: approvalstatus
+[2025-06-17 11:47:38.128] RegisterVar END - VarList[3]: username
+[2025-06-17 11:47:38.128] RegisterVar END - VarList[4]: company
+[2025-06-17 11:47:38.128] RegisterVar END - VarList[5]: location
+[2025-06-17 11:47:38.128] === RegisterVar completed ===
+[2025-06-17 11:47:38.128] === RegisterVar called ===
+[2025-06-17 11:47:38.128] RegisterVar - VarName: year, VarType: n, Value: 2025
+[2025-06-17 11:47:38.128] RegisterVar START - VarList Count: 6
+[2025-06-17 11:47:38.128] RegisterVar START - VarList[0]: approvalno
+[2025-06-17 11:47:38.128] RegisterVar START - VarList[1]: recordid
+[2025-06-17 11:47:38.128] RegisterVar START - VarList[2]: approvalstatus
+[2025-06-17 11:47:38.128] RegisterVar START - VarList[3]: username
+[2025-06-17 11:47:38.133] RegisterVar START - VarList[4]: company
+[2025-06-17 11:47:38.134] RegisterVar START - VarList[5]: location
+[2025-06-17 11:47:38.134] RegisterVar - Parser is assigned, registering variable
+[2025-06-17 11:47:38.135] RegisterVar - Variable registered successfully
+[2025-06-17 11:47:38.135] RegisterVar END - VarList Count: 7
+[2025-06-17 11:47:38.135] RegisterVar END - VarList[0]: approvalno
+[2025-06-17 11:47:38.139] RegisterVar END - VarList[1]: recordid
+[2025-06-17 11:47:38.139] RegisterVar END - VarList[2]: approvalstatus
+[2025-06-17 11:47:38.140] RegisterVar END - VarList[3]: username
+[2025-06-17 11:47:38.140] RegisterVar END - VarList[4]: company
+[2025-06-17 11:47:38.140] RegisterVar END - VarList[5]: location
+[2025-06-17 11:47:38.140] RegisterVar END - VarList[6]: year
+[2025-06-17 11:47:38.140] === RegisterVar completed ===
+[2025-06-17 11:47:38.148] === Eval called ===
+[2025-06-17 11:47:38.151] Eval - Input: iif(username={karthik},"Logged in user Karthik","Invalid user")
+[2025-06-17 11:47:38.151] Eval START - VarList Count: 7
+[2025-06-17 11:47:38.151] Eval START - VarList[0]: approvalno
+[2025-06-17 11:47:38.151] Eval START - VarList[1]: recordid
+[2025-06-17 11:47:38.151] Eval START - VarList[2]: approvalstatus
+[2025-06-17 11:47:38.151] Eval START - VarList[3]: username
+[2025-06-17 11:47:38.151] Eval START - VarList[4]: company
+[2025-06-17 11:47:38.151] Eval START - VarList[5]: location
+[2025-06-17 11:47:38.151] Eval START - VarList[6]: year
+[2025-06-17 11:47:38.151] Eval - Parser is assigned, proceeding with evaluation
+[2025-06-17 11:47:38.160] Eval - Evaluation successful, result: Logged in user Karthik
+[2025-06-17 11:47:38.160] Eval END - VarList Count: 7
+[2025-06-17 11:47:38.160] Eval END - VarList[0]: approvalno
+[2025-06-17 11:47:38.160] Eval END - VarList[1]: recordid
+[2025-06-17 11:47:38.160] Eval END - VarList[2]: approvalstatus
+[2025-06-17 11:47:38.161] Eval END - VarList[3]: username
+[2025-06-17 11:47:38.164] Eval END - VarList[4]: company
+[2025-06-17 11:47:38.164] Eval END - VarList[5]: location
+[2025-06-17 11:47:38.164] Eval END - VarList[6]: year
+[2025-06-17 11:47:38.164] Eval - Final output: Logged in user Karthik
+[2025-06-17 11:47:38.165] Eval - Calling ResetParser for next API call...
+[2025-06-17 11:47:38.165] *** RESET PARSER CALLED ***
+[2025-06-17 11:47:38.165] RESET START - VarList Count: 7
+[2025-06-17 11:47:38.165] RESET START - VarList[0]: approvalno
+[2025-06-17 11:47:38.165] RESET START - VarList[1]: recordid
+[2025-06-17 11:47:38.165] RESET START - VarList[2]: approvalstatus
+[2025-06-17 11:47:38.165] RESET START - VarList[3]: username
+[2025-06-17 11:47:38.165] RESET START - VarList[4]: company
+[2025-06-17 11:47:38.166] RESET START - VarList[5]: location
+[2025-06-17 11:47:38.166] RESET START - VarList[6]: year
+[2025-06-17 11:47:38.166] RESET - Freeing existing parser (Address: 00007BCA2BB72040)
+[2025-06-17 11:47:38.166] RESET - Existing parser freed successfully
+[2025-06-17 11:47:38.170] RESET - Creating new parser...
+[2025-06-17 11:47:38.170] RESET - New parser created successfully (Address: 00007BCA2BB72040)
+[2025-06-17 11:47:38.170] RESET END - VarList Count: 3
+[2025-06-17 11:47:38.170] RESET END - VarList[0]: approvalno
+[2025-06-17 11:47:38.170] RESET END - VarList[1]: recordid
+[2025-06-17 11:47:38.170] RESET END - VarList[2]: approvalstatus
+[2025-06-17 11:47:38.170] *** RESET PARSER COMPLETED ***
+[2025-06-17 11:47:38.170] Eval - ResetParser completed successfully
+[2025-06-17 11:47:38.171] === Eval completed ===
+[2025-06-17 11:49:43.275] === RegisterVar called ===
+[2025-06-17 11:49:43.275] RegisterVar - VarName: X, VarType: N, Value: 100
+[2025-06-17 11:49:43.275] RegisterVar START - VarList Count: 3
+[2025-06-17 11:49:43.276] RegisterVar START - VarList[0]: approvalno
+[2025-06-17 11:49:43.276] RegisterVar START - VarList[1]: recordid
+[2025-06-17 11:49:43.276] RegisterVar START - VarList[2]: approvalstatus
+[2025-06-17 11:49:43.276] RegisterVar - Parser is assigned, registering variable
+[2025-06-17 11:49:43.276] RegisterVar - Variable registered successfully
+[2025-06-17 11:49:43.276] RegisterVar END - VarList Count: 4
+[2025-06-17 11:49:43.276] RegisterVar END - VarList[0]: approvalno
+[2025-06-17 11:49:43.276] RegisterVar END - VarList[1]: recordid
+[2025-06-17 11:49:43.276] RegisterVar END - VarList[2]: approvalstatus
+[2025-06-17 11:49:43.276] RegisterVar END - VarList[3]: x
+[2025-06-17 11:49:43.276] === RegisterVar completed ===
+[2025-06-17 11:49:43.276] === RegisterVar called ===
+[2025-06-17 11:49:43.276] RegisterVar - VarName: Y, VarType: N, Value: 200
+[2025-06-17 11:49:43.276] RegisterVar START - VarList Count: 4
+[2025-06-17 11:49:43.276] RegisterVar START - VarList[0]: approvalno
+[2025-06-17 11:49:43.276] RegisterVar START - VarList[1]: recordid
+[2025-06-17 11:49:43.276] RegisterVar START - VarList[2]: approvalstatus
+[2025-06-17 11:49:43.276] RegisterVar START - VarList[3]: x
+[2025-06-17 11:49:43.276] RegisterVar - Parser is assigned, registering variable
+[2025-06-17 11:49:43.276] RegisterVar - Variable registered successfully
+[2025-06-17 11:49:43.276] RegisterVar END - VarList Count: 5
+[2025-06-17 11:49:43.276] RegisterVar END - VarList[0]: approvalno
+[2025-06-17 11:49:43.276] RegisterVar END - VarList[1]: recordid
+[2025-06-17 11:49:43.276] RegisterVar END - VarList[2]: approvalstatus
+[2025-06-17 11:49:43.276] RegisterVar END - VarList[3]: x
+[2025-06-17 11:49:43.276] RegisterVar END - VarList[4]: y
+[2025-06-17 11:49:43.277] === RegisterVar completed ===
+[2025-06-17 11:49:43.277] === Eval called ===
+[2025-06-17 11:49:43.277] Eval - Input: X+Y
+[2025-06-17 11:49:43.277] Eval START - VarList Count: 5
+[2025-06-17 11:49:43.277] Eval START - VarList[0]: approvalno
+[2025-06-17 11:49:43.277] Eval START - VarList[1]: recordid
+[2025-06-17 11:49:43.277] Eval START - VarList[2]: approvalstatus
+[2025-06-17 11:49:43.277] Eval START - VarList[3]: x
+[2025-06-17 11:49:43.277] Eval START - VarList[4]: y
+[2025-06-17 11:49:43.277] Eval - Parser is assigned, proceeding with evaluation
+[2025-06-17 11:49:43.277] Eval - Evaluation successful, result: 300
+[2025-06-17 11:49:43.277] Eval END - VarList Count: 5
+[2025-06-17 11:49:43.277] Eval END - VarList[0]: approvalno
+[2025-06-17 11:49:43.277] Eval END - VarList[1]: recordid
+[2025-06-17 11:49:43.277] Eval END - VarList[2]: approvalstatus
+[2025-06-17 11:49:43.277] Eval END - VarList[3]: x
+[2025-06-17 11:49:43.277] Eval END - VarList[4]: y
+[2025-06-17 11:49:43.277] Eval - Final output: 300
+[2025-06-17 11:49:43.278] Eval - Calling ResetParser for next API call...
+[2025-06-17 11:49:43.278] *** RESET PARSER CALLED ***
+[2025-06-17 11:49:43.278] RESET START - VarList Count: 5
+[2025-06-17 11:49:43.278] RESET START - VarList[0]: approvalno
+[2025-06-17 11:49:43.278] RESET START - VarList[1]: recordid
+[2025-06-17 11:49:43.278] RESET START - VarList[2]: approvalstatus
+[2025-06-17 11:49:43.278] RESET START - VarList[3]: x
+[2025-06-17 11:49:43.278] RESET START - VarList[4]: y
+[2025-06-17 11:49:43.278] RESET - Freeing existing parser (Address: 00007BCA2BB72040)
+[2025-06-17 11:49:43.278] RESET - Existing parser freed successfully
+[2025-06-17 11:49:43.278] RESET - Creating new parser...
+[2025-06-17 11:49:43.279] RESET - New parser created successfully (Address: 00007BCA2BB72040)
+[2025-06-17 11:49:43.279] RESET END - VarList Count: 3
+[2025-06-17 11:49:43.279] RESET END - VarList[0]: approvalno
+[2025-06-17 11:49:43.279] RESET END - VarList[1]: recordid
+[2025-06-17 11:49:43.279] RESET END - VarList[2]: approvalstatus
+[2025-06-17 11:49:43.280] *** RESET PARSER COMPLETED ***
+[2025-06-17 11:49:43.280] Eval - ResetParser completed successfully
+[2025-06-17 11:49:43.282] === Eval completed ===
+[2025-06-17 13:06:49.971] DLL INIT - Creating parser...
+[2025-06-17 13:06:49.992] DLL INIT - Parser created successfully
+[2025-06-17 13:06:49.992] DLL INIT - Parser address: 000074A978084040
+[2025-06-17 13:06:49.992] DLL INIT - VarList Count: 3
+[2025-06-17 13:06:49.992] DLL INIT - VarList[0]: approvalno
+[2025-06-17 13:06:49.992] DLL INIT - VarList[1]: recordid
+[2025-06-17 13:06:49.992] DLL INIT - VarList[2]: approvalstatus
+[2025-06-17 13:06:49.992] DLL INIT - Exit procedure registered
+[2025-06-17 13:06:49.992] *** DLL INITIALIZATION COMPLETED ***
+[2025-06-17 13:06:49.992] === RegisterVar called ===
+[2025-06-17 13:06:49.993] RegisterVar - VarName: username, VarType: c, Value: john
+[2025-06-17 13:06:49.993] RegisterVar START - VarList Count: 3
+[2025-06-17 13:06:49.993] RegisterVar START - VarList[0]: approvalno
+[2025-06-17 13:06:49.993] RegisterVar START - VarList[1]: recordid
+[2025-06-17 13:06:49.993] RegisterVar START - VarList[2]: approvalstatus
+[2025-06-17 13:06:49.993] RegisterVar - Parser is assigned, registering variable
+[2025-06-17 13:06:49.993] RegisterVar - Variable registered successfully
+[2025-06-17 13:06:49.993] RegisterVar END - VarList Count: 4
+[2025-06-17 13:06:49.993] RegisterVar END - VarList[0]: approvalno
+[2025-06-17 13:06:49.993] RegisterVar END - VarList[1]: recordid
+[2025-06-17 13:06:49.993] RegisterVar END - VarList[2]: approvalstatus
+[2025-06-17 13:06:49.993] RegisterVar END - VarList[3]: username
+[2025-06-17 13:06:49.993] === RegisterVar completed ===
+[2025-06-17 13:06:49.996] === Eval called ===
+[2025-06-17 13:06:49.997] Eval - Input: iif(username={john},"Welcome John","Access Denied")
+[2025-06-17 13:06:49.997] Eval START - VarList Count: 4
+[2025-06-17 13:06:49.997] Eval START - VarList[0]: approvalno
+[2025-06-17 13:06:49.997] Eval START - VarList[1]: recordid
+[2025-06-17 13:06:49.997] Eval START - VarList[2]: approvalstatus
+[2025-06-17 13:06:49.997] Eval START - VarList[3]: username
+[2025-06-17 13:06:49.997] Eval - Parser is assigned, proceeding with evaluation
+[2025-06-17 13:06:49.997] Eval - Evaluation successful, result: Welcome John
+[2025-06-17 13:06:49.997] Eval END - VarList Count: 4
+[2025-06-17 13:06:49.997] Eval END - VarList[0]: approvalno
+[2025-06-17 13:06:49.997] Eval END - VarList[1]: recordid
+[2025-06-17 13:06:49.997] Eval END - VarList[2]: approvalstatus
+[2025-06-17 13:06:49.997] Eval END - VarList[3]: username
+[2025-06-17 13:06:49.997] Eval - Final output: Welcome John
+[2025-06-17 13:06:49.998] Eval - Calling ResetParser for next API call...
+[2025-06-17 13:06:49.998] *** RESET PARSER CALLED ***
+[2025-06-17 13:06:49.998] RESET START - VarList Count: 4
+[2025-06-17 13:06:49.998] RESET START - VarList[0]: approvalno
+[2025-06-17 13:06:49.998] RESET START - VarList[1]: recordid
+[2025-06-17 13:06:49.998] RESET START - VarList[2]: approvalstatus
+[2025-06-17 13:06:49.998] RESET START - VarList[3]: username
+[2025-06-17 13:06:49.998] RESET - Freeing existing parser (Address: 000074A978084040)
+[2025-06-17 13:06:49.998] RESET - Existing parser freed successfully
+[2025-06-17 13:06:49.998] RESET - Creating new parser...
+[2025-06-17 13:06:49.998] RESET - New parser created successfully (Address: 000074A978084040)
+[2025-06-17 13:06:49.998] RESET END - VarList Count: 3
+[2025-06-17 13:06:49.999] RESET END - VarList[0]: approvalno
+[2025-06-17 13:06:49.999] RESET END - VarList[1]: recordid
+[2025-06-17 13:06:49.999] RESET END - VarList[2]: approvalstatus
+[2025-06-17 13:06:49.999] *** RESET PARSER COMPLETED ***
+[2025-06-17 13:06:49.999] Eval - ResetParser completed successfully
+[2025-06-17 13:06:49.999] === Eval completed ===
+[2025-06-17 13:12:13.182] === RegisterVar called ===
+[2025-06-17 13:12:13.182] RegisterVar - VarName: A, VarType: 1, Value: 
+[2025-06-17 13:12:13.182] RegisterVar START - VarList Count: 3
+[2025-06-17 13:12:13.182] RegisterVar START - VarList[0]: approvalno
+[2025-06-17 13:12:13.182] RegisterVar START - VarList[1]: recordid
+[2025-06-17 13:12:13.182] RegisterVar START - VarList[2]: approvalstatus
+[2025-06-17 13:12:13.185] RegisterVar - Parser is assigned, registering variable
+[2025-06-17 13:12:13.185] RegisterVar - Variable registered successfully
+[2025-06-17 13:12:13.185] RegisterVar END - VarList Count: 4
+[2025-06-17 13:12:13.185] RegisterVar END - VarList[0]: approvalno
+[2025-06-17 13:12:13.185] RegisterVar END - VarList[1]: recordid
+[2025-06-17 13:12:13.185] RegisterVar END - VarList[2]: approvalstatus
+[2025-06-17 13:12:13.185] RegisterVar END - VarList[3]: a
+[2025-06-17 13:12:13.185] === RegisterVar completed ===
+[2025-06-17 13:12:13.185] === RegisterVar called ===
+[2025-06-17 13:12:13.185] RegisterVar - VarName: B, VarType: 2, Value: 
+[2025-06-17 13:12:13.185] RegisterVar START - VarList Count: 4
+[2025-06-17 13:12:13.185] RegisterVar START - VarList[0]: approvalno
+[2025-06-17 13:12:13.185] RegisterVar START - VarList[1]: recordid
+[2025-06-17 13:12:13.185] RegisterVar START - VarList[2]: approvalstatus
+[2025-06-17 13:12:13.186] RegisterVar START - VarList[3]: a
+[2025-06-17 13:12:13.186] RegisterVar - Parser is assigned, registering variable
+[2025-06-17 13:12:13.186] RegisterVar - Variable registered successfully
+[2025-06-17 13:12:13.186] RegisterVar END - VarList Count: 5
+[2025-06-17 13:12:13.186] RegisterVar END - VarList[0]: approvalno
+[2025-06-17 13:12:13.186] RegisterVar END - VarList[1]: recordid
+[2025-06-17 13:12:13.186] RegisterVar END - VarList[2]: approvalstatus
+[2025-06-17 13:12:13.186] RegisterVar END - VarList[3]: a
+[2025-06-17 13:12:13.186] RegisterVar END - VarList[4]: b
+[2025-06-17 13:12:13.186] === RegisterVar completed ===
+[2025-06-17 13:12:13.186] === Eval called ===
+[2025-06-17 13:12:13.186] Eval - Input: A * B
+[2025-06-17 13:12:13.186] Eval START - VarList Count: 5
+[2025-06-17 13:12:13.186] Eval START - VarList[0]: approvalno
+[2025-06-17 13:12:13.186] Eval START - VarList[1]: recordid
+[2025-06-17 13:12:13.186] Eval START - VarList[2]: approvalstatus
+[2025-06-17 13:12:13.186] Eval START - VarList[3]: a
+[2025-06-17 13:12:13.186] Eval START - VarList[4]: b
+[2025-06-17 13:12:13.186] Eval - Parser is assigned, proceeding with evaluation
+[2025-06-17 13:12:13.186] Eval - Evaluation successful, result: *
+[2025-06-17 13:12:13.186] Eval END - VarList Count: 5
+[2025-06-17 13:12:13.186] Eval END - VarList[0]: approvalno
+[2025-06-17 13:12:13.186] Eval END - VarList[1]: recordid
+[2025-06-17 13:12:13.186] Eval END - VarList[2]: approvalstatus
+[2025-06-17 13:12:13.186] Eval END - VarList[3]: a
+[2025-06-17 13:12:13.186] Eval END - VarList[4]: b
+[2025-06-17 13:12:13.186] Eval - Final output: *
+[2025-06-17 13:12:13.186] Eval - Calling ResetParser for next API call...
+[2025-06-17 13:12:13.186] *** RESET PARSER CALLED ***
+[2025-06-17 13:12:13.187] RESET START - VarList Count: 5
+[2025-06-17 13:12:13.187] RESET START - VarList[0]: approvalno
+[2025-06-17 13:12:13.187] RESET START - VarList[1]: recordid
+[2025-06-17 13:12:13.187] RESET START - VarList[2]: approvalstatus
+[2025-06-17 13:12:13.187] RESET START - VarList[3]: a
+[2025-06-17 13:12:13.187] RESET START - VarList[4]: b
+[2025-06-17 13:12:13.187] RESET - Freeing existing parser (Address: 000074A978084040)
+[2025-06-17 13:12:13.187] RESET - Existing parser freed successfully
+[2025-06-17 13:12:13.187] RESET - Creating new parser...
+[2025-06-17 13:12:13.187] RESET - New parser created successfully (Address: 000074A978084040)
+[2025-06-17 13:12:13.187] RESET END - VarList Count: 3
+[2025-06-17 13:12:13.187] RESET END - VarList[0]: approvalno
+[2025-06-17 13:12:13.187] RESET END - VarList[1]: recordid
+[2025-06-17 13:12:13.187] RESET END - VarList[2]: approvalstatus
+[2025-06-17 13:12:13.187] *** RESET PARSER COMPLETED ***
+[2025-06-17 13:12:13.187] Eval - ResetParser completed successfully
+[2025-06-17 13:12:13.187] === Eval completed ===
+[2025-06-17 13:12:16.883] === RegisterVar called ===
+[2025-06-17 13:12:16.885] RegisterVar - VarName: username, VarType: c, Value: john
+[2025-06-17 13:12:16.886] RegisterVar START - VarList Count: 3
+[2025-06-17 13:12:16.886] RegisterVar START - VarList[0]: approvalno
+[2025-06-17 13:12:16.886] RegisterVar START - VarList[1]: recordid
+[2025-06-17 13:12:16.886] RegisterVar START - VarList[2]: approvalstatus
+[2025-06-17 13:12:16.886] RegisterVar - Parser is assigned, registering variable
+[2025-06-17 13:12:16.886] RegisterVar - Variable registered successfully
+[2025-06-17 13:12:16.886] RegisterVar END - VarList Count: 4
+[2025-06-17 13:12:16.886] RegisterVar END - VarList[0]: approvalno
+[2025-06-17 13:12:16.886] RegisterVar END - VarList[1]: recordid
+[2025-06-17 13:12:16.886] RegisterVar END - VarList[2]: approvalstatus
+[2025-06-17 13:12:16.886] RegisterVar END - VarList[3]: username
+[2025-06-17 13:12:16.886] === RegisterVar completed ===
+[2025-06-17 13:12:16.886] === Eval called ===
+[2025-06-17 13:12:16.886] Eval - Input: iif(username={john},"Welcome John","Access Denied")
+[2025-06-17 13:12:16.886] Eval START - VarList Count: 4
+[2025-06-17 13:12:16.886] Eval START - VarList[0]: approvalno
+[2025-06-17 13:12:16.886] Eval START - VarList[1]: recordid
+[2025-06-17 13:12:16.886] Eval START - VarList[2]: approvalstatus
+[2025-06-17 13:12:16.887] Eval START - VarList[3]: username
+[2025-06-17 13:12:16.887] Eval - Parser is assigned, proceeding with evaluation
+[2025-06-17 13:12:16.887] Eval - Evaluation successful, result: Welcome John
+[2025-06-17 13:12:16.887] Eval END - VarList Count: 4
+[2025-06-17 13:12:16.887] Eval END - VarList[0]: approvalno
+[2025-06-17 13:12:16.887] Eval END - VarList[1]: recordid
+[2025-06-17 13:12:16.887] Eval END - VarList[2]: approvalstatus
+[2025-06-17 13:12:16.887] Eval END - VarList[3]: username
+[2025-06-17 13:12:16.887] Eval - Final output: Welcome John
+[2025-06-17 13:12:16.887] Eval - Calling ResetParser for next API call...
+[2025-06-17 13:12:16.887] *** RESET PARSER CALLED ***
+[2025-06-17 13:12:16.887] RESET START - VarList Count: 4
+[2025-06-17 13:12:16.887] RESET START - VarList[0]: approvalno
+[2025-06-17 13:12:16.887] RESET START - VarList[1]: recordid
+[2025-06-17 13:12:16.887] RESET START - VarList[2]: approvalstatus
+[2025-06-17 13:12:16.887] RESET START - VarList[3]: username
+[2025-06-17 13:12:16.887] RESET - Freeing existing parser (Address: 000074A978084040)
+[2025-06-17 13:12:16.887] RESET - Existing parser freed successfully
+[2025-06-17 13:12:16.887] RESET - Creating new parser...
+[2025-06-17 13:12:16.887] RESET - New parser created successfully (Address: 000074A978084040)
+[2025-06-17 13:12:16.887] RESET END - VarList Count: 3
+[2025-06-17 13:12:16.887] RESET END - VarList[0]: approvalno
+[2025-06-17 13:12:16.887] RESET END - VarList[1]: recordid
+[2025-06-17 13:12:16.887] RESET END - VarList[2]: approvalstatus
+[2025-06-17 13:12:16.888] *** RESET PARSER COMPLETED ***
+[2025-06-17 13:12:16.888] Eval - ResetParser completed successfully
+[2025-06-17 13:12:16.888] === Eval completed ===
+[2025-06-17 13:12:21.148] === RegisterVar called ===
+[2025-06-17 13:12:21.148] RegisterVar - VarName: first, VarType: c, Value: Salman
+[2025-06-17 13:12:21.149] RegisterVar START - VarList Count: 3
+[2025-06-17 13:12:21.149] RegisterVar START - VarList[0]: approvalno
+[2025-06-17 13:12:21.149] RegisterVar START - VarList[1]: recordid
+[2025-06-17 13:12:21.149] RegisterVar START - VarList[2]: approvalstatus
+[2025-06-17 13:12:21.149] RegisterVar - Parser is assigned, registering variable
+[2025-06-17 13:12:21.149] RegisterVar - Variable registered successfully
+[2025-06-17 13:12:21.149] RegisterVar END - VarList Count: 4
+[2025-06-17 13:12:21.149] RegisterVar END - VarList[0]: approvalno
+[2025-06-17 13:12:21.149] RegisterVar END - VarList[1]: recordid
+[2025-06-17 13:12:21.149] RegisterVar END - VarList[2]: approvalstatus
+[2025-06-17 13:12:21.149] RegisterVar END - VarList[3]: first
+[2025-06-17 13:12:21.149] === RegisterVar completed ===
+[2025-06-17 13:12:21.149] === RegisterVar called ===
+[2025-06-17 13:12:21.149] RegisterVar - VarName: last, VarType: c, Value: Sheriff
+[2025-06-17 13:12:21.149] RegisterVar START - VarList Count: 4
+[2025-06-17 13:12:21.149] RegisterVar START - VarList[0]: approvalno
+[2025-06-17 13:12:21.149] RegisterVar START - VarList[1]: recordid
+[2025-06-17 13:12:21.149] RegisterVar START - VarList[2]: approvalstatus
+[2025-06-17 13:12:21.149] RegisterVar START - VarList[3]: first
+[2025-06-17 13:12:21.149] RegisterVar - Parser is assigned, registering variable
+[2025-06-17 13:12:21.149] RegisterVar - Variable registered successfully
+[2025-06-17 13:12:21.149] RegisterVar END - VarList Count: 5
+[2025-06-17 13:12:21.150] RegisterVar END - VarList[0]: approvalno
+[2025-06-17 13:12:21.150] RegisterVar END - VarList[1]: recordid
+[2025-06-17 13:12:21.152] RegisterVar END - VarList[2]: approvalstatus
+[2025-06-17 13:12:21.152] RegisterVar END - VarList[3]: first
+[2025-06-17 13:12:21.152] RegisterVar END - VarList[4]: last
+[2025-06-17 13:12:21.152] === RegisterVar completed ===
+[2025-06-17 13:12:21.152] === Eval called ===
+[2025-06-17 13:12:21.152] Eval - Input: first + " " + last
+[2025-06-17 13:12:21.152] Eval START - VarList Count: 5
+[2025-06-17 13:12:21.152] Eval START - VarList[0]: approvalno
+[2025-06-17 13:12:21.152] Eval START - VarList[1]: recordid
+[2025-06-17 13:12:21.152] Eval START - VarList[2]: approvalstatus
+[2025-06-17 13:12:21.152] Eval START - VarList[3]: first
+[2025-06-17 13:12:21.152] Eval START - VarList[4]: last
+[2025-06-17 13:12:21.152] Eval - Parser is assigned, proceeding with evaluation
+[2025-06-17 13:12:21.153] Eval - Evaluation successful, result: Salman Sheriff
+[2025-06-17 13:12:21.153] Eval END - VarList Count: 5
+[2025-06-17 13:12:21.153] Eval END - VarList[0]: approvalno
+[2025-06-17 13:12:21.153] Eval END - VarList[1]: recordid
+[2025-06-17 13:12:21.153] Eval END - VarList[2]: approvalstatus
+[2025-06-17 13:12:21.153] Eval END - VarList[3]: first
+[2025-06-17 13:12:21.153] Eval END - VarList[4]: last
+[2025-06-17 13:12:21.153] Eval - Final output: Salman Sheriff
+[2025-06-17 13:12:21.153] Eval - Calling ResetParser for next API call...
+[2025-06-17 13:12:21.153] *** RESET PARSER CALLED ***
+[2025-06-17 13:12:21.153] RESET START - VarList Count: 5
+[2025-06-17 13:12:21.153] RESET START - VarList[0]: approvalno
+[2025-06-17 13:12:21.153] RESET START - VarList[1]: recordid
+[2025-06-17 13:12:21.153] RESET START - VarList[2]: approvalstatus
+[2025-06-17 13:12:21.153] RESET START - VarList[3]: first
+[2025-06-17 13:12:21.153] RESET START - VarList[4]: last
+[2025-06-17 13:12:21.153] RESET - Freeing existing parser (Address: 000074A978084040)
+[2025-06-17 13:12:21.153] RESET - Existing parser freed successfully
+[2025-06-17 13:12:21.153] RESET - Creating new parser...
+[2025-06-17 13:12:21.153] RESET - New parser created successfully (Address: 000074A978084040)
+[2025-06-17 13:12:21.153] RESET END - VarList Count: 3
+[2025-06-17 13:12:21.153] RESET END - VarList[0]: approvalno
+[2025-06-17 13:12:21.153] RESET END - VarList[1]: recordid
+[2025-06-17 13:12:21.154] RESET END - VarList[2]: approvalstatus
+[2025-06-17 13:12:21.154] *** RESET PARSER COMPLETED ***
+[2025-06-17 13:12:21.154] Eval - ResetParser completed successfully
+[2025-06-17 13:12:21.154] === Eval completed ===
+[2025-06-17 13:12:25.054] === RegisterVar called ===
+[2025-06-17 13:12:25.056] RegisterVar - VarName: score, VarType: n, Value: 85
+[2025-06-17 13:12:25.056] RegisterVar START - VarList Count: 3
+[2025-06-17 13:12:25.056] RegisterVar START - VarList[0]: approvalno
+[2025-06-17 13:12:25.057] RegisterVar START - VarList[1]: recordid
+[2025-06-17 13:12:25.059] RegisterVar START - VarList[2]: approvalstatus
+[2025-06-17 13:12:25.059] RegisterVar - Parser is assigned, registering variable
+[2025-06-17 13:12:25.060] RegisterVar - Variable registered successfully
+[2025-06-17 13:12:25.060] RegisterVar END - VarList Count: 4
+[2025-06-17 13:12:25.060] RegisterVar END - VarList[0]: approvalno
+[2025-06-17 13:12:25.060] RegisterVar END - VarList[1]: recordid
+[2025-06-17 13:12:25.060] RegisterVar END - VarList[2]: approvalstatus
+[2025-06-17 13:12:25.060] RegisterVar END - VarList[3]: score
+[2025-06-17 13:12:25.060] === RegisterVar completed ===
+[2025-06-17 13:12:25.060] === Eval called ===
+[2025-06-17 13:12:25.061] Eval - Input: iif(score>=50,"Pass","Fail")
+[2025-06-17 13:12:25.061] Eval START - VarList Count: 4
+[2025-06-17 13:12:25.061] Eval START - VarList[0]: approvalno
+[2025-06-17 13:12:25.061] Eval START - VarList[1]: recordid
+[2025-06-17 13:12:25.061] Eval START - VarList[2]: approvalstatus
+[2025-06-17 13:12:25.061] Eval START - VarList[3]: score
+[2025-06-17 13:12:25.061] Eval - Parser is assigned, proceeding with evaluation
+[2025-06-17 13:12:25.061] Eval - Evaluation successful, result: Fail
+[2025-06-17 13:12:25.061] Eval END - VarList Count: 4
+[2025-06-17 13:12:25.061] Eval END - VarList[0]: approvalno
+[2025-06-17 13:12:25.061] Eval END - VarList[1]: recordid
+[2025-06-17 13:12:25.061] Eval END - VarList[2]: approvalstatus
+[2025-06-17 13:12:25.061] Eval END - VarList[3]: score
+[2025-06-17 13:12:25.061] Eval - Final output: Fail
+[2025-06-17 13:12:25.061] Eval - Calling ResetParser for next API call...
+[2025-06-17 13:12:25.061] *** RESET PARSER CALLED ***
+[2025-06-17 13:12:25.061] RESET START - VarList Count: 4
+[2025-06-17 13:12:25.061] RESET START - VarList[0]: approvalno
+[2025-06-17 13:12:25.061] RESET START - VarList[1]: recordid
+[2025-06-17 13:12:25.061] RESET START - VarList[2]: approvalstatus
+[2025-06-17 13:12:25.061] RESET START - VarList[3]: score
+[2025-06-17 13:12:25.061] RESET - Freeing existing parser (Address: 000074A978084040)
+[2025-06-17 13:12:25.062] RESET - Existing parser freed successfully
+[2025-06-17 13:12:25.062] RESET - Creating new parser...
+[2025-06-17 13:12:25.062] RESET - New parser created successfully (Address: 000074A978084040)
+[2025-06-17 13:12:25.062] RESET END - VarList Count: 3
+[2025-06-17 13:12:25.062] RESET END - VarList[0]: approvalno
+[2025-06-17 13:12:25.062] RESET END - VarList[1]: recordid
+[2025-06-17 13:12:25.062] RESET END - VarList[2]: approvalstatus
+[2025-06-17 13:12:25.062] *** RESET PARSER COMPLETED ***
+[2025-06-17 13:12:25.062] Eval - ResetParser completed successfully
+[2025-06-17 13:12:25.069] === Eval completed ===
+[2025-06-17 13:12:29.035] === RegisterVar called ===
+[2025-06-17 13:12:29.037] RegisterVar - VarName: age, VarType: n, Value: 16
+[2025-06-17 13:12:29.037] RegisterVar START - VarList Count: 3
+[2025-06-17 13:12:29.037] RegisterVar START - VarList[0]: approvalno
+[2025-06-17 13:12:29.037] RegisterVar START - VarList[1]: recordid
+[2025-06-17 13:12:29.037] RegisterVar START - VarList[2]: approvalstatus
+[2025-06-17 13:12:29.037] RegisterVar - Parser is assigned, registering variable
+[2025-06-17 13:12:29.037] RegisterVar - Variable registered successfully
+[2025-06-17 13:12:29.037] RegisterVar END - VarList Count: 4
+[2025-06-17 13:12:29.037] RegisterVar END - VarList[0]: approvalno
+[2025-06-17 13:12:29.037] RegisterVar END - VarList[1]: recordid
+[2025-06-17 13:12:29.037] RegisterVar END - VarList[2]: approvalstatus
+[2025-06-17 13:12:29.037] RegisterVar END - VarList[3]: age
+[2025-06-17 13:12:29.037] === RegisterVar completed ===
+[2025-06-17 13:12:29.038] === Eval called ===
+[2025-06-17 13:12:29.038] Eval - Input: iif(age>=18,"Adult",iif(age>=13,"Teenager","Child"))
+[2025-06-17 13:12:29.038] Eval START - VarList Count: 4
+[2025-06-17 13:12:29.038] Eval START - VarList[0]: approvalno
+[2025-06-17 13:12:29.038] Eval START - VarList[1]: recordid
+[2025-06-17 13:12:29.038] Eval START - VarList[2]: approvalstatus
+[2025-06-17 13:12:29.038] Eval START - VarList[3]: age
+[2025-06-17 13:12:29.038] Eval - Parser is assigned, proceeding with evaluation
+[2025-06-17 13:12:29.039] Eval - Evaluation successful, result: Child
+[2025-06-17 13:12:29.043] Eval END - VarList Count: 4
+[2025-06-17 13:12:29.044] Eval END - VarList[0]: approvalno
+[2025-06-17 13:12:29.045] Eval END - VarList[1]: recordid
+[2025-06-17 13:12:29.045] Eval END - VarList[2]: approvalstatus
+[2025-06-17 13:12:29.047] Eval END - VarList[3]: age
+[2025-06-17 13:12:29.048] Eval - Final output: Child
+[2025-06-17 13:12:29.048] Eval - Calling ResetParser for next API call...
+[2025-06-17 13:12:29.048] *** RESET PARSER CALLED ***
+[2025-06-17 13:12:29.048] RESET START - VarList Count: 4
+[2025-06-17 13:12:29.048] RESET START - VarList[0]: approvalno
+[2025-06-17 13:12:29.049] RESET START - VarList[1]: recordid
+[2025-06-17 13:12:29.050] RESET START - VarList[2]: approvalstatus
+[2025-06-17 13:12:29.051] RESET START - VarList[3]: age
+[2025-06-17 13:12:29.051] RESET - Freeing existing parser (Address: 000074A978084040)
+[2025-06-17 13:12:29.051] RESET - Existing parser freed successfully
+[2025-06-17 13:12:29.051] RESET - Creating new parser...
+[2025-06-17 13:12:29.051] RESET - New parser created successfully (Address: 000074A978084040)
+[2025-06-17 13:12:29.051] RESET END - VarList Count: 3
+[2025-06-17 13:12:29.051] RESET END - VarList[0]: approvalno
+[2025-06-17 13:12:29.051] RESET END - VarList[1]: recordid
+[2025-06-17 13:12:29.051] RESET END - VarList[2]: approvalstatus
+[2025-06-17 13:12:29.056] *** RESET PARSER COMPLETED ***
+[2025-06-17 13:12:29.058] Eval - ResetParser completed successfully
+[2025-06-17 13:12:29.058] === Eval completed ===
+[2025-06-17 13:12:34.258] === RegisterVar called ===
+[2025-06-17 13:12:34.258] RegisterVar - VarName: location, VarType: c, Value: Banglore
+[2025-06-17 13:12:34.258] RegisterVar START - VarList Count: 3
+[2025-06-17 13:12:34.258] RegisterVar START - VarList[0]: approvalno
+[2025-06-17 13:12:34.258] RegisterVar START - VarList[1]: recordid
+[2025-06-17 13:12:34.258] RegisterVar START - VarList[2]: approvalstatus
+[2025-06-17 13:12:34.258] RegisterVar - Parser is assigned, registering variable
+[2025-06-17 13:12:34.259] RegisterVar - Variable registered successfully
+[2025-06-17 13:12:34.259] RegisterVar END - VarList Count: 4
+[2025-06-17 13:12:34.259] RegisterVar END - VarList[0]: approvalno
+[2025-06-17 13:12:34.259] RegisterVar END - VarList[1]: recordid
+[2025-06-17 13:12:34.259] RegisterVar END - VarList[2]: approvalstatus
+[2025-06-17 13:12:34.259] RegisterVar END - VarList[3]: location
+[2025-06-17 13:12:34.259] === RegisterVar completed ===
+[2025-06-17 13:12:34.259] === Eval called ===
+[2025-06-17 13:12:34.259] Eval - Input: iif(location={Banglore},"In city","Outside")
+[2025-06-17 13:12:34.259] Eval START - VarList Count: 4
+[2025-06-17 13:12:34.259] Eval START - VarList[0]: approvalno
+[2025-06-17 13:12:34.259] Eval START - VarList[1]: recordid
+[2025-06-17 13:12:34.259] Eval START - VarList[2]: approvalstatus
+[2025-06-17 13:12:34.259] Eval START - VarList[3]: location
+[2025-06-17 13:12:34.259] Eval - Parser is assigned, proceeding with evaluation
+[2025-06-17 13:12:34.260] Eval - Evaluation successful, result: In city
+[2025-06-17 13:12:34.260] Eval END - VarList Count: 4
+[2025-06-17 13:12:34.260] Eval END - VarList[0]: approvalno
+[2025-06-17 13:12:34.260] Eval END - VarList[1]: recordid
+[2025-06-17 13:12:34.260] Eval END - VarList[2]: approvalstatus
+[2025-06-17 13:12:34.260] Eval END - VarList[3]: location
+[2025-06-17 13:12:34.260] Eval - Final output: In city
+[2025-06-17 13:12:34.260] Eval - Calling ResetParser for next API call...
+[2025-06-17 13:12:34.260] *** RESET PARSER CALLED ***
+[2025-06-17 13:12:34.260] RESET START - VarList Count: 4
+[2025-06-17 13:12:34.260] RESET START - VarList[0]: approvalno
+[2025-06-17 13:12:34.262] RESET START - VarList[1]: recordid
+[2025-06-17 13:12:34.263] RESET START - VarList[2]: approvalstatus
+[2025-06-17 13:12:34.263] RESET START - VarList[3]: location
+[2025-06-17 13:12:34.263] RESET - Freeing existing parser (Address: 000074A978084040)
+[2025-06-17 13:12:34.263] RESET - Existing parser freed successfully
+[2025-06-17 13:12:34.263] RESET - Creating new parser...
+[2025-06-17 13:12:34.263] RESET - New parser created successfully (Address: 000074A978084040)
+[2025-06-17 13:12:34.263] RESET END - VarList Count: 3
+[2025-06-17 13:12:34.263] RESET END - VarList[0]: approvalno
+[2025-06-17 13:12:34.263] RESET END - VarList[1]: recordid
+[2025-06-17 13:12:34.263] RESET END - VarList[2]: approvalstatus
+[2025-06-17 13:12:34.263] *** RESET PARSER COMPLETED ***
+[2025-06-17 13:12:34.263] Eval - ResetParser completed successfully
+[2025-06-17 13:12:34.263] === Eval completed ===
+[2025-06-17 13:12:38.144] === RegisterVar called ===
+[2025-06-17 13:12:38.144] RegisterVar - VarName: username, VarType: c, Value: admin
+[2025-06-17 13:12:38.144] RegisterVar START - VarList Count: 3
+[2025-06-17 13:12:38.145] RegisterVar START - VarList[0]: approvalno
+[2025-06-17 13:12:38.145] RegisterVar START - VarList[1]: recordid
+[2025-06-17 13:12:38.145] RegisterVar START - VarList[2]: approvalstatus
+[2025-06-17 13:12:38.146] RegisterVar - Parser is assigned, registering variable
+[2025-06-17 13:12:38.146] RegisterVar - Variable registered successfully
+[2025-06-17 13:12:38.146] RegisterVar END - VarList Count: 4
+[2025-06-17 13:12:38.146] RegisterVar END - VarList[0]: approvalno
+[2025-06-17 13:12:38.146] RegisterVar END - VarList[1]: recordid
+[2025-06-17 13:12:38.146] RegisterVar END - VarList[2]: approvalstatus
+[2025-06-17 13:12:38.146] RegisterVar END - VarList[3]: username
+[2025-06-17 13:12:38.146] === RegisterVar completed ===
+[2025-06-17 13:12:38.147] === RegisterVar called ===
+[2025-06-17 13:12:38.147] RegisterVar - VarName: role, VarType: c, Value: superuser
+[2025-06-17 13:12:38.147] RegisterVar START - VarList Count: 4
+[2025-06-17 13:12:38.147] RegisterVar START - VarList[0]: approvalno
+[2025-06-17 13:12:38.147] RegisterVar START - VarList[1]: recordid
+[2025-06-17 13:12:38.147] RegisterVar START - VarList[2]: approvalstatus
+[2025-06-17 13:12:38.147] RegisterVar START - VarList[3]: username
+[2025-06-17 13:12:38.147] RegisterVar - Parser is assigned, registering variable
+[2025-06-17 13:12:38.148] RegisterVar - Variable registered successfully
+[2025-06-17 13:12:38.148] RegisterVar END - VarList Count: 5
+[2025-06-17 13:12:38.148] RegisterVar END - VarList[0]: approvalno
+[2025-06-17 13:12:38.148] RegisterVar END - VarList[1]: recordid
+[2025-06-17 13:12:38.148] RegisterVar END - VarList[2]: approvalstatus
+[2025-06-17 13:12:38.148] RegisterVar END - VarList[3]: username
+[2025-06-17 13:12:38.148] RegisterVar END - VarList[4]: role
+[2025-06-17 13:12:38.148] === RegisterVar completed ===
+[2025-06-17 13:12:38.149] === Eval called ===
+[2025-06-17 13:12:38.149] Eval - Input: iif(username={admin} AND role={superuser},"Access Granted","Access Denied")
+[2025-06-17 13:12:38.149] Eval START - VarList Count: 5
+[2025-06-17 13:12:38.149] Eval START - VarList[0]: approvalno
+[2025-06-17 13:12:38.149] Eval START - VarList[1]: recordid
+[2025-06-17 13:12:38.149] Eval START - VarList[2]: approvalstatus
+[2025-06-17 13:12:38.149] Eval START - VarList[3]: username
+[2025-06-17 13:12:38.150] Eval START - VarList[4]: role
+[2025-06-17 13:12:38.150] Eval - Parser is assigned, proceeding with evaluation
+[2025-06-17 13:12:38.150] Eval - Evaluation failed, error: AND is not defined
+[2025-06-17 13:12:38.151] Eval END - VarList Count: 5
+[2025-06-17 13:12:38.151] Eval END - VarList[0]: approvalno
+[2025-06-17 13:12:38.151] Eval END - VarList[1]: recordid
+[2025-06-17 13:12:38.151] Eval END - VarList[2]: approvalstatus
+[2025-06-17 13:12:38.151] Eval END - VarList[3]: username
+[2025-06-17 13:12:38.151] Eval END - VarList[4]: role
+[2025-06-17 13:12:38.151] Eval - Final output: AND is not defined
+[2025-06-17 13:12:38.151] Eval - Calling ResetParser for next API call...
+[2025-06-17 13:12:38.152] *** RESET PARSER CALLED ***
+[2025-06-17 13:12:38.152] RESET START - VarList Count: 5
+[2025-06-17 13:12:38.152] RESET START - VarList[0]: approvalno
+[2025-06-17 13:12:38.152] RESET START - VarList[1]: recordid
+[2025-06-17 13:12:38.152] RESET START - VarList[2]: approvalstatus
+[2025-06-17 13:12:38.152] RESET START - VarList[3]: username
+[2025-06-17 13:12:38.152] RESET START - VarList[4]: role
+[2025-06-17 13:12:38.152] RESET - Freeing existing parser (Address: 000074A978084040)
+[2025-06-17 13:12:38.152] RESET - Existing parser freed successfully
+[2025-06-17 13:12:38.152] RESET - Creating new parser...
+[2025-06-17 13:12:38.152] RESET - New parser created successfully (Address: 000074A978084040)
+[2025-06-17 13:12:38.152] RESET END - VarList Count: 3
+[2025-06-17 13:12:38.152] RESET END - VarList[0]: approvalno
+[2025-06-17 13:12:38.153] RESET END - VarList[1]: recordid
+[2025-06-17 13:12:38.153] RESET END - VarList[2]: approvalstatus
+[2025-06-17 13:12:38.153] *** RESET PARSER COMPLETED ***
+[2025-06-17 13:12:38.153] Eval - ResetParser completed successfully
+[2025-06-17 13:12:38.153] === Eval completed ===
+[2025-06-17 13:12:41.476] === RegisterVar called ===
+[2025-06-17 13:12:41.477] RegisterVar - VarName: a, VarType: 1, Value: 
+[2025-06-17 13:12:41.477] RegisterVar START - VarList Count: 3
+[2025-06-17 13:12:41.477] RegisterVar START - VarList[0]: approvalno
+[2025-06-17 13:12:41.477] RegisterVar START - VarList[1]: recordid
+[2025-06-17 13:12:41.477] RegisterVar START - VarList[2]: approvalstatus
+[2025-06-17 13:12:41.477] RegisterVar - Parser is assigned, registering variable
+[2025-06-17 13:12:41.479] RegisterVar - Variable registered successfully
+[2025-06-17 13:12:41.479] RegisterVar END - VarList Count: 4
+[2025-06-17 13:12:41.480] RegisterVar END - VarList[0]: approvalno
+[2025-06-17 13:12:41.480] RegisterVar END - VarList[1]: recordid
+[2025-06-17 13:12:41.480] RegisterVar END - VarList[2]: approvalstatus
+[2025-06-17 13:12:41.480] RegisterVar END - VarList[3]: a
+[2025-06-17 13:12:41.480] === RegisterVar completed ===
+[2025-06-17 13:12:46.454] === RegisterVar called ===
+[2025-06-17 13:12:46.455] RegisterVar - VarName: year, VarType: n, Value: 2023
+[2025-06-17 13:12:46.455] RegisterVar START - VarList Count: 4
+[2025-06-17 13:12:46.455] RegisterVar START - VarList[0]: approvalno
+[2025-06-17 13:12:46.455] RegisterVar START - VarList[1]: recordid
+[2025-06-17 13:12:46.455] RegisterVar START - VarList[2]: approvalstatus
+[2025-06-17 13:12:46.455] RegisterVar START - VarList[3]: a
+[2025-06-17 13:12:46.455] RegisterVar - Parser is assigned, registering variable
+[2025-06-17 13:12:46.455] RegisterVar - Variable registered successfully
+[2025-06-17 13:12:46.456] RegisterVar END - VarList Count: 5
+[2025-06-17 13:12:46.456] RegisterVar END - VarList[0]: approvalno
+[2025-06-17 13:12:46.456] RegisterVar END - VarList[1]: recordid
+[2025-06-17 13:12:46.456] RegisterVar END - VarList[2]: approvalstatus
+[2025-06-17 13:12:46.457] RegisterVar END - VarList[3]: a
+[2025-06-17 13:12:46.457] RegisterVar END - VarList[4]: year
+[2025-06-17 13:12:46.457] === RegisterVar completed ===
+[2025-06-17 13:12:46.460] === Eval called ===
+[2025-06-17 13:12:46.460] Eval - Input: iif(year < 2024,"Past Year","Current or Future")
+[2025-06-17 13:12:46.460] Eval START - VarList Count: 5
+[2025-06-17 13:12:46.460] Eval START - VarList[0]: approvalno
+[2025-06-17 13:12:46.461] Eval START - VarList[1]: recordid
+[2025-06-17 13:12:46.461] Eval START - VarList[2]: approvalstatus
+[2025-06-17 13:12:46.461] Eval START - VarList[3]: a
+[2025-06-17 13:12:46.461] Eval START - VarList[4]: year
+[2025-06-17 13:12:46.463] Eval - Parser is assigned, proceeding with evaluation
+[2025-06-17 13:12:46.463] Eval - Evaluation successful, result: Past Year
+[2025-06-17 13:12:46.465] Eval END - VarList Count: 5
+[2025-06-17 13:12:46.465] Eval END - VarList[0]: approvalno
+[2025-06-17 13:12:46.465] Eval END - VarList[1]: recordid
+[2025-06-17 13:12:46.465] Eval END - VarList[2]: approvalstatus
+[2025-06-17 13:12:46.465] Eval END - VarList[3]: a
+[2025-06-17 13:12:46.465] Eval END - VarList[4]: year
+[2025-06-17 13:12:46.465] Eval - Final output: Past Year
+[2025-06-17 13:12:46.465] Eval - Calling ResetParser for next API call...
+[2025-06-17 13:12:46.465] *** RESET PARSER CALLED ***
+[2025-06-17 13:12:46.465] RESET START - VarList Count: 5
+[2025-06-17 13:12:46.465] RESET START - VarList[0]: approvalno
+[2025-06-17 13:12:46.465] RESET START - VarList[1]: recordid
+[2025-06-17 13:12:46.466] RESET START - VarList[2]: approvalstatus
+[2025-06-17 13:12:46.466] RESET START - VarList[3]: a
+[2025-06-17 13:12:46.466] RESET START - VarList[4]: year
+[2025-06-17 13:12:46.466] RESET - Freeing existing parser (Address: 000074A978084040)
+[2025-06-17 13:12:46.466] RESET - Existing parser freed successfully
+[2025-06-17 13:12:46.468] RESET - Creating new parser...
+[2025-06-17 13:12:46.469] RESET - New parser created successfully (Address: 000074A978084040)
+[2025-06-17 13:12:46.470] RESET END - VarList Count: 3
+[2025-06-17 13:12:46.470] RESET END - VarList[0]: approvalno
+[2025-06-17 13:12:46.471] RESET END - VarList[1]: recordid
+[2025-06-17 13:12:46.472] RESET END - VarList[2]: approvalstatus
+[2025-06-17 13:12:46.472] *** RESET PARSER COMPLETED ***
+[2025-06-17 13:12:46.472] Eval - ResetParser completed successfully
+[2025-06-17 13:12:46.472] === Eval completed ===
+[2025-06-17 13:24:04.813] === RegisterVar called ===
+[2025-06-17 13:24:04.816] RegisterVar - VarName: a, VarType: 1, Value: 
+[2025-06-17 13:24:04.816] RegisterVar START - VarList Count: 3
+[2025-06-17 13:24:04.817] RegisterVar START - VarList[0]: approvalno
+[2025-06-17 13:24:04.817] RegisterVar START - VarList[1]: recordid
+[2025-06-17 13:24:04.817] RegisterVar START - VarList[2]: approvalstatus
+[2025-06-17 13:24:04.817] RegisterVar - Parser is assigned, registering variable
+[2025-06-17 13:24:04.817] RegisterVar - Variable registered successfully
+[2025-06-17 13:24:04.817] RegisterVar END - VarList Count: 4
+[2025-06-17 13:24:04.818] RegisterVar END - VarList[0]: approvalno
+[2025-06-17 13:24:04.818] RegisterVar END - VarList[1]: recordid
+[2025-06-17 13:24:04.818] RegisterVar END - VarList[2]: approvalstatus
+[2025-06-17 13:24:04.818] RegisterVar END - VarList[3]: a
+[2025-06-17 13:24:04.818] === RegisterVar completed ===
